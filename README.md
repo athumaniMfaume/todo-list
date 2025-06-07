@@ -53,7 +53,7 @@ todo-app/
 
 ## 📌 Live Demo
 
-You can deploy this project using [GitHub Pages](https://pages.github.com/) or [Netlify](https://netlify.com) for free.
+https://athumanimfaume.github.io/todo-list/
 
 ---
 
